@@ -14,18 +14,18 @@ body {
     scroll-behavior: smooth;
     cursor: crosshair;
     animation: zoomBg 30s ease-in-out infinite alternate;
-  }
-  
-  @keyframes zoomBg {
+}
+
+@keyframes zoomBg {
     0% {
-      background-size: 100%;
+        background-size: 100%;
     }
     100% {
-      background-size: 110%;
+        background-size: 110%;
     }
-  }
-  
-  .overlay {
+}
+
+.overlay {
     position: fixed;
     top: 0;
     left: 0;
@@ -33,39 +33,39 @@ body {
     height: 100%;
     background: rgba(15, 15, 15, 0.85);
     z-index: -1;
-  }
-  
-  /* Content */
-  .container {
+}
+
+/* Content */
+.container {
     padding: 20px;
     max-width: 600px;
-  }
-  
-  h1 {
+}
+
+h1 {
     font-size: 3rem;
     margin-bottom: 10px;
     text-shadow: 0 0 10px #fff;
-  }
-  
-  p {
+}
+
+p {
     color: #ccc;
     margin-bottom: 40px;
-  }
-  
-  h2 {
+}
+
+h2 {
     margin: 30px 0 15px;
     color: #ddd;
-  }
-  
-  .links {
+}
+
+.links {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 15px;
     margin-bottom: 30px;
-  }
-  
-  a {
+}
+
+a {
     padding: 12px 20px;
     border-radius: 8px;
     text-decoration: none;
@@ -77,20 +77,46 @@ body {
     gap: 10px;
     box-shadow: 0 0 15px rgba(255,255,255,0.1);
     transition: all 0.3s ease;
-  }
-  
-  .discord { background: #5865F2; box-shadow: 0 0 10px #5865F2; }
-  .twitch { background: #9146FF; box-shadow: 0 0 10px #9146FF; }
-  .tiktok { background: #000; box-shadow: 0 0 10px #fff; }
-  .cashapp { background: #00C244; box-shadow: 0 0 10px #00C244; }
-  .paypal { background: #003087; box-shadow: 0 0 10px #003087; }
-  
-  a:hover {
+}
+
+.discord { background: #5865F2; box-shadow: 0 0 10px #5865F2; }
+.twitch { background: #9146FF; box-shadow: 0 0 10px #9146FF; }
+.tiktok { background: #000; box-shadow: 0 0 10px #fff; }
+.cashapp { background: #00C244; box-shadow: 0 0 10px #00C244; }
+.paypal { background: #003087; box-shadow: 0 0 10px #003087; }
+
+a:hover {
     transform: scale(1.05);
     opacity: 0.9;
-  }
-  
-  i {
+}
+
+i {
     font-size: 1.2rem;
-  }
-  
+}
+
+/* Navbar for top right "Ghetto Stories" tab */
+.navbar {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 999;
+}
+
+.navbar a {
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 10px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 0.95rem;
+    box-shadow: 0 0 10px #fff2;
+    transition: all 0.3s ease;
+}
+
+.navbar a:hover {
+    background: #5865F2;
+    color: #fff;
+    box-shadow: 0 0 15px #5865F2;
+}
