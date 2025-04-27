@@ -32,7 +32,7 @@ _"Code is like humor. When you have to explain it, it’s bad."_
 
 ## 🎯 Future Goals
 - Become a full-stack wizard 🧙
-- Open-source more cool projects
+- Open-source more projects.
 - Learn advanced DevOps (Docker, CI/CD)
 
 ---
@@ -62,4 +62,4 @@ _"Code is like humor. When you have to explain it, it’s bad."_
 ![Visitor Count](https://profile-counter.glitch.me/wallaheem/count.svg)
 
 ---
-> 📫 Reach me: [your-email-here@gmail.com] (← Replace with your real email!)
+> 📫 Reach me: [eadtff@gmail.com] 
