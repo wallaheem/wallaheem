@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Banner --><!-- Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!;Frontend+%2F+Backend+Developer;Building+cool+stuff+everyday!;Let's+Code+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
@@ -62,12 +62,10 @@ _"Code is like humor. When you have to explain it, it’s bad."_
 ![Visitor Count](https://profile-counter.glitch.me/wallaheem/count.svg)
 
 ---
-> 📫 Reach me: [eadtff@gmail.com]
-<h2 align="center">📫 Reach Me</h2>
 
-<p align="center">
-  <a href="mailto:eadtff@gmail.com">Email Me</a>
-</p>
+## 📫 Reach Me
+- Email: [eadtff@gmail.com](mailto:eadtff@gmail.com)
+- Discord: [wallaheem](https://discord.com/users/wallaheem)
 
 ---
 
