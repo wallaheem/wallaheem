@@ -1,65 +1,74 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!;Frontend+%2F+Backend+Developer;Building+cool+stuff+everyday!;Let's+Code+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-# 👋 Yo, I'm wallaheem
-
-**Passionate Developer | Frontend & Backend Developer**
-
-🚀 Exploring Full Stack Development  
-🎨 Building with TailwindCSS & Lua  
-🧹 Focused on Clean Code & High Performance
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+Wallaheem;Passionate+Dev+|+Frontend+%26+Backend;Building+with+Lua+%26+TailwindCSS" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧠 About Me
-- Always learning and building new things
-- Love designing sleek UIs with **Tailwind CSS**
-- Problem-solving and optimizing backend systems
-- Making projects that are fun and useful!
+<h2 align="center">🧠 About Me</h2>
 
-_"Code is like humor. When you have to explain it, it’s bad."_
-
----
-
-## 🔥 Currently Working On
-- Building clean and fast web apps
-- Creating fun and immersive FiveM scripts
-- Mastering backend dev with Lua and Node.js
+<p align="center">
+  Always learning new things.<br>
+  Love sleek UIs & backend systems.<br>
+  "Code is like humor. When you have to explain it, it’s bad."
+</p>
 
 ---
 
-## 🎯 Future Goals
-- Become a full-stack wizard 🧙
-- Open-source more projects.
-- Learn advanced DevOps (Docker, CI/CD)
+<h2 align="center">🔥 Currently Working On</h2>
+
+<p align="center">
+  Building clean and fast web apps<br>
+  Creating fun and immersive FiveM scripts<br>
+  Mastering backend dev with Lua and Node.js
+</p>
 
 ---
 
-## ⚡ Tech Stack
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<h2 align="center">🎯 Future Goals</h2>
 
-### Backend & Tools
-![Lua](https://img.shields.io/badge/lua-%230079C1.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  Become a full-stack wizard 🧙<br>
+  Open-source more projects.<br>
+  Learn advanced DevOps (Docker, CI/CD)
+</p>
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaheem&show_icons=true&theme=tokyonight)
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-## 🌎 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/wallaheem/count.svg)
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wallaheem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
-> 📫 Reach me: [eadtff@gmail.com] 
+
+<h2 align="center">🌎 Visitor Counter</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wallaheem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<h2 align="center">📫 Reach Me</h2>
+
+<p align="center">
+  <a href="mailto:eadtff@gmail.com">Email Me</a>
+</p>
+
+---
+
