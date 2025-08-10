@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!;Frontend+%2F+Backend+Developer;Coding+new+stuff+everyday!;Let's+Code+Something+Together+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-# 👋 Yo, I'm wallaheem
+# 👋 Yo, I'm wohcion
 
 **Passionate Developer | Frontend & Backend Developer**
 
@@ -65,7 +65,7 @@ _"Code is like humor. When you have to explain it, it’s bad."_
 
 ## 📫 Reach Me
 - Email: [eadtff@gmail.com](mailto:eadtff@gmail.com)
-- Discord: [wallaheem](https://discord.com/users/wallaheem)
+- Discord: [wohcion](https://discord.com/users/wohcion)
 
 ---
 
