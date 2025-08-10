@@ -1,4 +1,4 @@
-<!-- Banner --><!-- Banner -->
+<!-- Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!;Frontend+%2F+Backend+Developer;Coding+new+stuff+everyday!;Let's+Code+Something+Together+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
@@ -32,7 +32,7 @@ _"Code is like humor. When you have to explain it, it’s bad."_
 
 ## 🎯 Future Goals
 - Become a full-stack wizard 🧙
-- Open-source more projects.
+- Open-source more projects
 - Learn advanced DevOps (Docker, CI/CD)
 
 ---
@@ -54,17 +54,15 @@ _"Code is like humor. When you have to explain it, it’s bad."_
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wohcion&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wohcion&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
+
 ## 🌎 Visitor Counter
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wohcion&title=Profile%20Views)
+![Profile views](https://komarev.com/ghpvc/?username=wohcion&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ## 📫 Reach Me
 - Email: [eadtff@gmail.com](mailto:eadtff@gmail.com)
 - Discord: [wohcion](https://discord.com/users/wohcion)
-
----
-
