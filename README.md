@@ -53,15 +53,6 @@ _"Code is like humor. When you have to explain it, it’s bad."_
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wohcion&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
----
-
-## 🌎 Visitor Counter
-![Profile views](https://komarev.com/ghpvc/?username=wohcion&label=Profile%20views&color=0e75b6&style=flat)
-
----
 
 ## 📫 Reach Me
 - Email: [eadtff@gmail.com](mailto:eadtff@gmail.com)
