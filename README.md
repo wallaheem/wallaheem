@@ -54,12 +54,11 @@ _"Code is like humor. When you have to explain it, it’s bad."_
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaheem&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wohcion&show_icons=true&theme=tokyonight)
 
 ---
-
 ## 🌎 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/wallaheem/count.svg)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wohcion&title=Profile%20Views)
 
 ---
 
